@@ -61,10 +61,18 @@ main {
 
 
 /* Footer space */
+
 footer {
     height: 100px;
-    background: white;
+    background: #0066cc;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
+
 
 
 /* Simple responsive layout */
